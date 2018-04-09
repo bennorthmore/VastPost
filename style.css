@@ -1,0 +1,52 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: "Open Sans", sans-serif;
+}
+
+#mc_embed_signup .button {
+    background-color: #7f7fbf !important;
+}
+
+#mc_embed_signup .button:hover {
+    background-color: #4c4ca6 !important;
+}
+
+.header {
+    height: 100px;
+}
+
+.inner-header {
+    margin: 0 auto;
+    width: 900px;
+    padding: 17px 0px;
+}
+
+.inner-header img {
+    padding: 5px;
+    height: 55px;
+}
+
+.content {
+    background: #87CEFF;
+}
+
+.content-about {
+    margin: 0 auto;
+    width: 700px;
+    padding: 50px 0px 120px 0px;
+}
+
+.content-about h1 {
+    text-align: center;
+    color: white;
+}
+
+.content p {
+    text-align: center;
+    color: white;
+}
+
+.about-description {
+    font-size: 21px;
+}
